@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.flash-message {
+    text-align: center;
+    color: green;
+    font-size: 1.2em;
+    margin: 20px 0;
+}
