@@ -13,14 +13,12 @@ class PostController extends Controller
 {
     /**
      * Display a listing of the resource.
-     */
+    */
     public function index()
     {
         $posts = Post::paginate(8); // Paginate with 8 posts per page
         return view('posts.index', compact('posts'));
     }
-
-
     /**
      * Show the form for creating a new resource.
      */
