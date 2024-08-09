@@ -50,9 +50,8 @@
         <hr class="w-388 ml-36">
         <h1 class="text-white text-5xl ml-36 pb-14" style="font-family: sans-serif">Our expertise</h1>
         <p class="ml-48 text-white w-550" style="margin-top:-2%; width:83%; margin-bottom: 54px;font-size: large; font-family: sans-serif;">
-            Concevoir et gérer des solutions de gestion des postes pour répondre aux besoins variés des entreprises de toutes tailles. Développer et intégrer des compétences diversifiées pour maîtriser l'ensemble du processus de gestion des postes, de la planification à l'exécution.
-            Être pionnier dans l'adoption des nouvelles technologies pour optimiser l'efficacité et la satisfaction des entreprises que nous accompagnons.
-        </p>
+            Design and manage workstation management solutions to meet the diverse needs of businesses of all sizes. Develop and integrate varied skills to master the entire workstation management process, 
+            from planning to execution. Be a pioneer in adopting new technologies to optimize efficiency and satisfaction for the businesses we support.
     </div>
     <div class="w-1/3 flex justify-center items-center">
         <img src="/images/humanity.png" style="height: 50%">
